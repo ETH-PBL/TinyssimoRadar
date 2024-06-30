@@ -10,7 +10,7 @@ The dataset used in this work is available for download from ETH Library at [thi
 
 If you find this work, the hardware and/or the dataset useful for your research, please consider citing our paper:
 
-[Andrea Ronco, Philipp Schilk, Michele Magno, "TinyssimoRadar: In-Ear Hand Gesture Recognition with Ultra-Low Power mmWave Radars", *IoTDI24*, Year.](link_to_paper) 📚
+[Andrea Ronco, Philipp Schilk, Michele Magno, "TinyssimoRadar: In-Ear Hand Gesture Recognition with Ultra-Low Power mmWave Radars", *IoTDI24*, Year.](https://www.computer.org/csdl/proceedings-article/iotdi/2024/702500a192/1Y2lakchGaQ) 📚
 
 ## Getting Started
 
