@@ -5,12 +5,24 @@ The hardware implementation is based on our miniaturized wearable platform [Vita
 
 The dataset used in this work is available for download from ETH Library at [this link](https://www.research-collection.ethz.ch/handle/20.500.11850/672242). More information on the data format and relative licence can be found in the link above.
 
-
 ## Citation
 
 If you find this work, the hardware and/or the dataset useful for your research, please consider citing our paper:
 
 [Andrea Ronco, Philipp Schilk, Michele Magno, "TinyssimoRadar: In-Ear Hand Gesture Recognition with Ultra-Low Power mmWave Radars", *IoTDI24*, Year.](https://ieeexplore.ieee.org/abstract/document/10562162) 📚
+
+```bibtex
+@inproceedings{TinyssimoRadar,
+  author={Ronco, Andrea and Schilk, Philipp and Magno, Michele},
+  booktitle={2024 IEEE/ACM Ninth International Conference on Internet-of-Things Design and Implementation (IoTDI)}, 
+  title={TinyssimoRadar: In-Ear Hand Gesture Recognition with Ultra-Low Power mmWave Radars}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={192-202},
+  doi={10.1109/IoTDI61053.2024.00021}
+}
+```
 
 ## Getting Started
 
