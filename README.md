@@ -1,16 +1,29 @@
-# TinyssimoRadar
+# TinyssimoRadar 🤖📡✋ 
 
-TinyssimoRadar proposes a low-power in-ear Hand-Gesture Recognition system based on mm-wave radars, efficient spatial and temporal Convolutional Neural Networks and an energy-optimized hardware design. 🤖📡✋
+TinyssimoRadar proposes a low-power in-ear Hand-Gesture Recognition system based on mm-wave radars, efficient spatial and temporal Convolutional Neural Networks and an energy-optimized hardware design.
+
 The hardware implementation is based on our miniaturized wearable platform [VitalCore](https://github.com/ETH-PBL/VitalCore).
 
-The dataset used in this work is available for download from ETH Library at [this link](https://www.research-collection.ethz.ch/handle/20.500.11850/672242). More information on the data format and relative licence can be found in the link above.
-
+The dataset collected for this work is available for download from the ETH Library [here](https://www.research-collection.ethz.ch/handle/20.500.11850/672242). Information on the data format and license is also included.
 
 ## Citation
 
-If you find this work, the hardware and/or the dataset useful for your research, please consider citing our paper:
+If you find this work, the hardware, or the dataset useful for your research, please consider citing our paper:
 
-[Andrea Ronco, Philipp Schilk, Michele Magno, "TinyssimoRadar: In-Ear Hand Gesture Recognition with Ultra-Low Power mmWave Radars", *IoTDI24*, Year.](https://ieeexplore.ieee.org/abstract/document/10562162) 📚
+[Andrea Ronco, Philipp Schilk, Michele Magno, "TinyssimoRadar: In-Ear Hand Gesture Recognition with Ultra-Low Power mmWave Radars", *IoTDI24*, 2024.](https://ieeexplore.ieee.org/abstract/document/10562162) 📚
+
+```bibtex
+@inproceedings{TinyssimoRadar,
+  author={Ronco, Andrea and Schilk, Philipp and Magno, Michele},
+  booktitle={2024 IEEE/ACM Ninth International Conference on Internet-of-Things Design and Implementation (IoTDI)}, 
+  title={TinyssimoRadar: In-Ear Hand Gesture Recognition with Ultra-Low Power mmWave Radars}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={192-202},
+  doi={10.1109/IoTDI61053.2024.00021}
+}
+```
 
 ## Getting Started
 
